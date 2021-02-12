@@ -1,7 +1,7 @@
 ---
 title: 'Life rn'
 author: 'me'
-date: '2021-02-tbd'
+date: '2021-02-11'
 ---
 
 ## hello
