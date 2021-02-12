@@ -16,12 +16,12 @@ const Index = ({ posts, title, description, ...props }) => {
           <PostList posts={posts} />
         </main>
         <p>
-          {''} is the repository for this project
           <a href="https://github.com/cassidoo/next-netlify-blog-starter">
             This
           </a>
-          , and {''} is a tutorial on how to build it!
-          <a href="https://url.netlify.com/ByVW0bCF8">here</a>.
+          {''} is the repository for this project, and {''} 
+          <a href="https://url.netlify.com/ByVW0bCF8">here</a>
+          is a tutorial on how to build it!
         </p>
       </Layout>
       <style jsx>{`
