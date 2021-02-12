@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# netlify-blog
-=======
 # Next + Netlify Markdown Blog Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8979c7b5-18bf-4837-9861-2d9a5844b19b/deploy-status)](https://app.netlify.com/sites/next-netlify-blog-starter/deploys)
