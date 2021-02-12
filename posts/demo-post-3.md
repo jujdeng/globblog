@@ -1,7 +1,7 @@
 ---
 title: 'what to write'
 author: 'me'
-date: '2021-02-tbd'
+date: '2021-02-11'
 ---
 
 ## aaaaa
